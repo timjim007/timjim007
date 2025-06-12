@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m Timothy
-- 📖 I’m a **Computer Engineer** with a passion for designing and building systems where **hardware meets software**.  
-- 🔧 I specialize in embedded systems, real-time applications, and low-level firmware development.
-- 👀 I’m interested in embedded systems, real-time computing, video games, and soccer.
+- 📖 I’m a **Computer Engineer** with a passion for designing and building systems where **hardware meets software**.
+- 👀 I’m interested in embedded systems, real-time computing, low-level firmware development, video games, and soccer.
 - 🌱 I’m currently learning how to use FreeRTOS, work with sensors and LCDs, and implement embedded communication protocols.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/timothy-jimoh)  
 - ⚡ Fun fact: I’m a huge Arsenal FC fan — North London is red 🔴⚪.
