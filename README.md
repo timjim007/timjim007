@@ -22,5 +22,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I’m a huge Arsenal FC fan — North London is red 🔴⚪.
 
 
-
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-ED1C24?style=flat&logo=verilog&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![RP2040](https://img.shields.io/badge/RP2040-E54F26?style=flat&logo=raspberry-pi&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-27AE60?style=flat&logo=freebsd&logoColor=white)
+![CAN Bus](https://img.shields.io/badge/CAN--Bus-0078D4?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
