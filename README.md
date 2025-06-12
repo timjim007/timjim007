@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-ED1C24?style=flat&logo=verilog&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 ![RP2040](https://img.shields.io/badge/RP2040-E54F26?style=flat&logo=raspberry-pi&logoColor=white)
